@@ -1789,11 +1789,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Data Table",
-      "projectName": "Data Table",
-      "projectPath": "D:\\RPA-Tasks\\Data Table\\.local",
+      "projectUniqueName": "Finding Element in Web Application",
+      "projectName": "Finding Element in Web Application",
+      "projectPath": "C:\\Users\\ELCOT\\Documents\\UiPath\\Finding Element in Web Application\\.local",
       "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
-      "outputPath": "D:\\RPA-Tasks\\Data Table\\.local"
+      "outputPath": "C:\\Users\\ELCOT\\Documents\\UiPath\\Finding Element in Web Application\\.local"
     },
     "frameworks": {
       "net461": {

@@ -1,6 +1,6 @@
 {
-  "name": "Data Table",
-  "description": "Blank Process",
+  "name": "Finding Element in Web Application",
+  "description": "",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.0-preview]",
