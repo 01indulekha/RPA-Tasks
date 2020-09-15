@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "Excel Automation",
       "projectName": "Excel Automation",
-      "projectPath": "C:\\Users\\ELCOT\\Documents\\UiPath\\Excel Automation\\.local",
+      "projectPath": "D:\\RPA-Tasks\\Excel Automation\\.local",
       "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ELCOT\\Documents\\UiPath\\Excel Automation\\.local"
+      "outputPath": "D:\\RPA-Tasks\\Excel Automation\\.local"
     },
     "frameworks": {
       "net461": {
