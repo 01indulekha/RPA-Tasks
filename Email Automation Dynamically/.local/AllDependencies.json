@@ -1791,9 +1791,9 @@
     "restore": {
       "projectUniqueName": "Email Automation Dynamically",
       "projectName": "Email Automation Dynamically",
-      "projectPath": "C:\\Users\\ELCOT\\Documents\\UiPath\\Email Automation Dynamically\\.local",
+      "projectPath": "D:\\RPA-Tasks\\Email Automation Dynamically\\.local",
       "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ELCOT\\Documents\\UiPath\\Email Automation Dynamically\\.local"
+      "outputPath": "D:\\RPA-Tasks\\Email Automation Dynamically\\.local"
     },
     "frameworks": {
       "net461": {
